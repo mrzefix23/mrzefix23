@@ -32,7 +32,7 @@ Check out all my projects in the [Repositories](https://github.com/mrzefix23?tab
 
 ## 📫 Contact Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/yanis-mahdi-933a37238/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanis-mahdi-933a37238/)
 ✉ Email: yanismahdi.net@outlook.fr
 
 ---
