@@ -3,8 +3,6 @@
 I'm a **Software Engineering student** in my final year of a Master's degree at the **University of Bordeaux**.  
 Welcome to my GitHub profile! 🚀
 
-![Coding Animation](https://cdn.dribbble.com/users/1208406/screenshots/4471013/programmer.gif)
-
 ---
 
 ## 💻 Key Skills
@@ -43,9 +41,3 @@ Check out all my projects in the [Repositories](https://github.com/mrzefix23?tab
 ## 🌟 Fun Fact
 
 When I'm not coding, I enjoy exploring new tech tools, contributing to open-source, and experimenting with system optimizations.
-
----
-
-## ⚡ GitHub Stats
-
-![Yanis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrzefix23&show_icons=true&theme=radical)
