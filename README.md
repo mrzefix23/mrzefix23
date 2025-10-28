@@ -24,10 +24,13 @@ Software design and prototyping, Terminal UI tools
 
 ---
 
-## 🛠 Projects 
+## 🛠 Current Project
 
-Check out all my projects in the [Repositories](https://github.com/mrzefix23?tab=repositories) section.
+**CardFC** - A web app for managing FIFA player cards.
+Currently working on **user authentication**, built with **Angular**.  
 
+> Check out all my projects in the [Repositories](https://github.com/mrzefix23?tab=repositories) section.
+>
 ---
 
 ## 📫 Contact Me
